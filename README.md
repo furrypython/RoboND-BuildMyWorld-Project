@@ -1,6 +1,6 @@
 # Build My World Project  
 ## Project Description  
-This is the 1st project in the Robotics Software Engineer Nanodegree Program by Udacity.  
+This is the 1st project of the Robotics Software Engineer Nanodegree by Udacity.  
 
 ### Summary of Tasks
 1. Build a single floor wall structure using the **Building Editor** tool in Gazebo. Apply at least one feature, one color, and optionally one texture to your structure. Make sure there's enough space between the walls for a robot to navigate.  
